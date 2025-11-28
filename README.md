@@ -2,13 +2,14 @@
 # :ru: Абрамов Виталий Артурович
 > [!NOTE]
 > форматирование текста(жирное начертание, курсив и зачеркивание)
+
 _Текст курсивом_
 
 __Форматирование текста(жирное начертание)__
 
 ~~Зачеркивание~~
 
-## Моя работа(fork)
+## Пример ссылки
 [megasupersite](https://github.com/Abramov-Vitaliy/megasupersite)
 
 ### Пример кода 
@@ -29,3 +30,6 @@ jobs:
       - name: Build and run
         run: dotnet run --project VitaliyAbramov/VitaliyAbramov.csproj
 ```
+
+### Эмоджи
+:muscle:   :metal:   :punch:
