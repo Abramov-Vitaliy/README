@@ -9,7 +9,8 @@ __Форматирование текста(жирное начертание)__
 [megasupersite](https://github.com/Abramov-Vitaliy/megasupersite)
 
 ### Пример кода 
-> [!TIP] main.yml
+> [!TIP]
+> main.yml
 ```
 name: MyAction
 on: 
