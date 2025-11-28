@@ -1,4 +1,4 @@
-
+![photo](https://raw.githubusercontent.com/Abramov-Vitaliy/README/main/photo_2025-09-07_15-13-34.jpg)
 # :ru: Абрамов Виталий Артурович
 > [!NOTE]
 > форматирование текста(жирное начертание, курсив и зачеркивание)
